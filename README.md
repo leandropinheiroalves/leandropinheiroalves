@@ -27,7 +27,7 @@
 > * ![Windows](https://img.shields.io/badge/-Windows-181717?&logo=Windows&logoColor=FFFFFF) ![Linux](https://img.shields.io/badge/-Linux-181717?&logo=Linux&logoColor=FFFFFF) 
 
 
-### Estatísticas gerais
+### 📈  Estatísticas gerais
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=leandropinheiroalves&show_icons=true&hide_border=true&theme=highcontrast&show_icons=true)
 
