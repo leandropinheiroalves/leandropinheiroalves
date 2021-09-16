@@ -31,9 +31,7 @@
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=leandropinheiroalves&show_icons=true&hide_border=true&theme=highcontrast&show_icons=true)
 
-### 📈  Linguagens mais usadas
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leandropinheiroalves&layout=hide_border=true&theme=highcontrast&show_icons=true&hide=HTML,CSS,JavaScript,Jupyter%20Notebook,PHP)
-
 
 ![Visitantes](https://komarev.com/ghpvc/?username=leandropinheiroalves)
 
