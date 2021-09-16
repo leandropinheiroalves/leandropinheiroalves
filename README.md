@@ -2,43 +2,42 @@
 
 
 ### 👦 Sobre mim :
-> * 📌 Sou de Ilha Solteira, SP - Brasil.
-> * 🎓 Estudando [**Python**](https://github.com/leandropinheiroalves/dev_studies/tree/main/python)
-> * 🛠️ Estou focado em me tornar um [**Desenvolvedor Python**.](https://github.com/leandropinheiroalves/dev_studies)
+> 📍 Sou de Ilha Solteira, SP - Brasil.
+>
+> ✍️ Atualmente estudando [**Python**](https://github.com/leandropinheiroalves/dev_studies/tree/main/python)
+>
+> ✈️ Focado em me tornar um [**Desenvolvedor Python**.](https://github.com/leandropinheiroalves/dev_studies)
 
 
-### ⚡ Conhecimentos :
-> * ![Python](https://img.shields.io/badge/-Python-181717?&logo=Python&logoColor=FFFFFF) 
+### 📜 Linguagens:
+> ![Python](https://img.shields.io/badge/-Python-181717?&logo=Python&logoColor=darkgreen)
+![Markdown](https://img.shields.io/badge/Markdown-181717?logo=markdown&logoColor=red) 
 
 ### 📦 DataBases & DataStorage:
-> * ![SQLite](https://img.shields.io/badge/-SQLite-181717?&logo=sqlite&logoColor=FFFFFF) 
+> ![SQLite](https://img.shields.io/badge/-SQLite-181717?&logo=sqlite&logoColor=yellow) 
 
-### 🧰 Ferramentas:
-> * ![Git](https://img.shields.io/badge/-Git-181717?&logo=git&logoColor=FFFFFF) ![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=GitHub&logoColor=FFFFFF)
+### 🛠️ Ferramentas:
+>![TravisCI](https://img.shields.io/badge/TravisCI-181717?logo=travis&logoColor=FFFFFF) 
+![Git](https://img.shields.io/badge/-Git-181717?&logo=git&logoColor=orange) 
+![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=GitHub&logoColor=FFFFFF)
 
+### 🕹️ IDE'S:
+> ![PyCharm](https://img.shields.io/badge/-PyCharm-181717?&logo=PyCharm&logoColor=green) 
+![VSCode](https://img.shields.io/badge/-VSCode-181717?&logo=Visual%20Studio%20Code&logoColor=blue) 
 
+### 🖥️ Sistemas Operacionais:
+> ![Windows](https://img.shields.io/badge/-Windows-181717?&logo=Windows&logoColor=lightblue) 
+![Linux](https://img.shields.io/badge/-Linux-181717?&logo=Linux&logoColor=yellow) 
 
----------------
+### ☎️ Contatos:
 
-### 💚 IDE'S:
-> * ![PyCharm](https://img.shields.io/badge/-PyCharm-181717?&logo=PyCharm&logoColor=FFFFFF) ![VSCode](https://img.shields.io/badge/-VSCode-181717?&logo=Visual%20Studio%20Code&logoColor=FFFFFF) 
+>[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-181717?logo=Linkedin&logoColor=blue)](https://www.linkedin.com/in/leandropinheiroalves/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-181717?logo=Gmail&logoColor=red)](mailto:leandropinheiroalves@gmail.com)
 
-### 🐧 OS:
-> * ![Windows](https://img.shields.io/badge/-Windows-181717?&logo=Windows&logoColor=FFFFFF) ![Linux](https://img.shields.io/badge/-Linux-181717?&logo=Linux&logoColor=FFFFFF) 
+### 📶 Estatísticas gerais:
 
-
-### 📈  Estatísticas gerais
-
-![github stats](https://github-readme-stats.vercel.app/api?username=leandropinheiroalves&show_icons=true&hide_border=true&theme=highcontrast&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leandropinheiroalves&layout=hide_border=true&theme=highcontrast&show_icons=true&hide=HTML,CSS,JavaScript,Jupyter%20Notebook,PHP)
-
-![Visitantes](https://komarev.com/ghpvc/?username=leandropinheiroalves)
-
--------
-
-##  **Onde me encontrar**
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leandropinheiroalves/)](https://www.linkedin.com/in/leandropinheiroalves/)
- [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leandropinheiroalves@gmail.com)](mailto:leandropinheiroalves@gmail.com)
-
+>![github stats](https://github-readme-stats.vercel.app/api?username=leandropinheiroalves&show_icons=true&hide_border=true&theme=highcontrast&show_icons=true)
+>
+>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leandropinheiroalves&layout=hide_border=true&theme=highcontrast&show_icons=true&hide=HTML,CSS,JavaScript,Jupyter%20Notebook,PHP)
+>
+>![Visitantes](https://komarev.com/ghpvc/?username=leandropinheiroalves)
