@@ -32,7 +32,7 @@
 ### ☎️ Contatos:
 
 >[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-181717?logo=Linkedin&logoColor=blue)](https://www.linkedin.com/in/leandropinheiroalves/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-181717?logo=Gmail&logoColor=red)](mailto:leandropinheiroalves@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-leandropinheiroalves@gmail.com-181717?logo=Gmail&logoColor=red)](mailto:leandropinheiroalves@gmail.com)
 
 ### 📶 Estatísticas gerais:
 
