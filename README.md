@@ -2,36 +2,44 @@
 
 
 ### 👦 Sobre mim :
-> 📍 Sou de Ilha Solteira, SP - Brasil.
+> 📍 De Ilha Solteira, SP - Brasil
 >
-> ✍️ Atualmente estudando [**Python**](https://github.com/leandropinheiroalves/dev_studies/tree/main/python)
+> ✈️  **Desenvolvedor Python**
 >
-> ✈️ Focado em me tornar um [**Desenvolvedor Python**.](https://github.com/leandropinheiroalves/dev_studies)
+> ✍️  Atualmente estudando [**Django**](https://github.com/leandropinheiroalves/c-django)
 
 
 ### 📜 Linguagens:
-> ![Python](https://img.shields.io/badge/-Python-181717?&logo=Python&logoColor=darkgreen)
-![Markdown](https://img.shields.io/badge/Markdown-181717?logo=markdown&logoColor=red) 
+> ![Python](https://img.shields.io/badge/-PYTHON-181717?&logo=Python&logoColor=darkgreen)
+
+### 📜 Frameworks:
+> ![Django](https://img.shields.io/badge/-DJANGO-181717?&logo=django&logoColor=darkgreen)
+![Flask](https://img.shields.io/badge/-FLASK-181717?&logo=flask&logoColor=white)
+
+Hosting/SaaS:
+> ![Heroku](https://img.shields.io/badge/-HEROKU-181717?&logo=heroku&logoColor=purple)
+![AWS](https://img.shields.io/badge/-AWS_S3-181717?&logo=amazon-aws&logoColor=yellow)
 
 ### 📦 DataBases & DataStorage:
-> ![SQLite](https://img.shields.io/badge/-SQLite-181717?&logo=sqlite&logoColor=yellow) 
+> ![SQLite](https://img.shields.io/badge/-SQLITE-181717?&logo=sqlite&logoColor=yellow) 
+> ![Postgres](https://img.shields.io/badge/POSTGRES-181717?&logo=postgresql&logoColor=blue)
 
 ### 🛠️ Ferramentas:
->![TravisCI](https://img.shields.io/badge/TravisCI-181717?logo=travis&logoColor=FFFFFF) 
-![Git](https://img.shields.io/badge/-Git-181717?&logo=git&logoColor=orange) 
-![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=GitHub&logoColor=FFFFFF)
+>![Git](https://img.shields.io/badge/-GIT-181717?&logo=git&logoColor=orange) 
+![GitHub](https://img.shields.io/badge/-GITHUB-181717?&logo=GitHub&logoColor=FFFFFF)
+![GitHub Actions](https://img.shields.io/badge/GITHUBACTIONS-181717?&logo=githubactions&logoColor=white)
 
 ### 🕹️ IDE'S:
-> ![PyCharm](https://img.shields.io/badge/-PyCharm-181717?&logo=PyCharm&logoColor=green) 
-![VSCode](https://img.shields.io/badge/-VSCode-181717?&logo=Visual%20Studio%20Code&logoColor=blue) 
+> ![PyCharm](https://img.shields.io/badge/-PYCHARM-181717?&logo=PyCharm&logoColor=green) 
+![VSCode](https://img.shields.io/badge/-VSCODE-181717?&logo=Visual%20Studio%20Code&logoColor=blue) 
 
 ### 🖥️ Sistemas Operacionais:
-> ![Windows](https://img.shields.io/badge/-Windows-181717?&logo=Windows&logoColor=lightblue) 
-![Linux](https://img.shields.io/badge/-Linux-181717?&logo=Linux&logoColor=yellow) 
+> ![Windows](https://img.shields.io/badge/-WINDOWS-181717?&logo=Windows&logoColor=lightblue) 
+![Linux](https://img.shields.io/badge/-LINUX-181717?&logo=Linux&logoColor=yellow) 
 
 ### ☎️ Contatos:
 
->[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-181717?logo=Linkedin&logoColor=blue)](https://www.linkedin.com/in/leandropinheiroalves/)
+>[![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-181717?logo=Linkedin&logoColor=blue)](https://www.linkedin.com/in/leandropinheiroalves/)
 [![Gmail Badge](https://img.shields.io/badge/-leandropinheiroalves@gmail.com-181717?logo=Gmail&logoColor=red)](mailto:leandropinheiroalves@gmail.com)
 
 ### 📶 Estatísticas gerais:
