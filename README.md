@@ -2,21 +2,21 @@
 
 
 ### 👦 Sobre mim :
-> 📍 De Ilha Solteira, SP - Brasil
+> :house: De Ilha Solteira, SP - Brasil
 >
-> ✈️  **Desenvolvedor Python**
+> :man_technologist:  **Desenvolvedor Python**
 >
-> ✍️  Atualmente estudando [**Django**](https://github.com/leandropinheiroalves/c-django)
+> ✍️  Aprendendo [**Django**](https://github.com/leandropinheiroalves/c-django)
 
 
-### 📜 Linguagens:
+### :trophy: Linguagens:
 > ![Python](https://img.shields.io/badge/-PYTHON-181717?&logo=Python&logoColor=darkgreen)
 
-### 📜 Frameworks:
+### :steam_locomotive: Frameworks:
 > ![Django](https://img.shields.io/badge/-DJANGO-181717?&logo=django&logoColor=darkgreen)
 ![Flask](https://img.shields.io/badge/-FLASK-181717?&logo=flask&logoColor=white)
 
-Hosting/SaaS:
+### 📜 Hosting/SaaS:
 > ![Heroku](https://img.shields.io/badge/-HEROKU-181717?&logo=heroku&logoColor=purple)
 ![AWS](https://img.shields.io/badge/-AWS_S3-181717?&logo=amazon-aws&logoColor=yellow)
 
@@ -37,7 +37,7 @@ Hosting/SaaS:
 > ![Windows](https://img.shields.io/badge/-WINDOWS-181717?&logo=Windows&logoColor=lightblue) 
 ![Linux](https://img.shields.io/badge/-LINUX-181717?&logo=Linux&logoColor=yellow) 
 
-### ☎️ Contatos:
+### :telephone_receiver: Contatos:
 
 >[![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-181717?logo=Linkedin&logoColor=blue)](https://www.linkedin.com/in/leandropinheiroalves/)
 [![Gmail Badge](https://img.shields.io/badge/-leandropinheiroalves@gmail.com-181717?logo=Gmail&logoColor=red)](mailto:leandropinheiroalves@gmail.com)
